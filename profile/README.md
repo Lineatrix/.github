@@ -34,7 +34,7 @@ Our objective is to move Forward. We are developing decentralized, task-specific
 ---
 
 ### 📡 Connection
-- **Founder & CEO:** [Aditya D.K. Gupta/@AdityaDKGupta]
+- **Founder & CEO:** Aditya D.K. Gupta/@AdityaDKGupta
 ---
 <p align="center">
     <i>“Follow to be the part”</i>
