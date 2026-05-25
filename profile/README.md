@@ -12,7 +12,7 @@ Our objective is to move Forward. We are developing decentralized, task-specific
 ### 💎 Core Architecture: Orbivane
 **Orbivane** is our primary development focus—a specialized monitoring framework designed to interpret the planet from above.
 * **Multi-Agent Orchestration:** Specialized LLM agents assigned to distinct tactical roles.
-* **Vibe-Coded Intelligence:** Minimalist, glassmorphic interfaces for complex telemetry.
+* **orbivane:** from minutes to milliseconds.
 
 ---
 
@@ -20,8 +20,8 @@ Our objective is to move Forward. We are developing decentralized, task-specific
 | Domain | Focus |
 | :--- | :--- |
 | **Artificial Intelligence** | Multi-agent systems, Task-specific LLM orchestration. |
-| **Aerospace Tech** | Satellite monitoring, Earth-observation data. |
-| **Design Philosophy** | Minimalist, high-contrast, cinematic UI/UX. |
+| **Objective** | minimizing resources and maximizing impac. |
+| **systems** | autonomous multi-agent. |
 
 ---
 
