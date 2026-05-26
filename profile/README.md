@@ -20,7 +20,7 @@ Our objective is to move Forward. We are developing decentralized, task-specific
 | Domain | Focus |
 | :--- | :--- |
 | **Artificial Intelligence** | Multi-agent systems, Task-specific LLM orchestration. |
-| **Objective** | minimizing resources and maximizing impac. |
+| **Objective** | minimizing resources and maximizing impact. |
 | **systems** | autonomous multi-agent. |
 
 ---
