@@ -6,7 +6,7 @@ Lineatrix is a technology holding company focused on the convergence of **autono
 
 ---
 
-### 📈 The Mission
+### 🎯 The Mission
 Our objective is to move Forward. We are developing decentralized, task-specific AI agents capable of high-fidelity research, code generation, and satellite data synthesis.
 
 ### 💎 Core Architecture: Orbivane
