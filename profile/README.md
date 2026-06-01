@@ -25,7 +25,7 @@ Our objective is to move Forward. We are developing decentralized, task-specific
 
 ---
 
-### 🚀 Roadmap
+### 📍 Roadmap
 - [x] Establishment of **Lineatrix** Holding.
 - [x] Initial Architecture of **Orbivane**.
 - [ ] Beta release of multi-agent Earth monitoring framework.
