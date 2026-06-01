@@ -33,7 +33,7 @@ Our objective is to move Forward. We are developing decentralized, task-specific
 
 ---
 
-### 📡 Connection
+- **Website:** [Lineatrix](https://lineatrix.com)
 - **CEO & CTO:** Aditya D.K. Gupta
 ---
 <p align="center">
