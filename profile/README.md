@@ -1,4 +1,4 @@
-# Lineatrix
+# Lineatrix [https://avatars.githubusercontent.com/u/282329645?s=400&u=5f325fc14b2cffca5263062a93ef0c2c4b5162a0&v=4]
 
 > **"Architecting the intelligence"**
 
