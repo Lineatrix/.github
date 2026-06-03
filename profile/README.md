@@ -34,7 +34,7 @@ Our objective is to move Forward. We are developing decentralized, task-specific
 ---
 
 - **Website:** [Lineatrix](https://lineatrix.com)
-- **CEO & CTO:** Aditya D.K. Gupta
+- **CEO & CTO:** [Aditya D.K. Gupta](https://github.com/AdityaDKGupta)
 ---
 <p align="center">
     <i>“Follow to be the part”</i>
