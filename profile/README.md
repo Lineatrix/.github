@@ -32,7 +32,7 @@ Our objective is to move Forward. We are developing decentralized, task-specific
 - [ ] Test Launch-03
 - [ ] Test Launch of **Orbivane**
 - [ ] Release of **Orbivane v0**.
-|- [ ] Strategic expansion into Technology (Targeting 2028-2029). |
+- [ ] | Strategic expansion into Technology (Targeting 2028-2029). |
 
 ---
 
