@@ -9,7 +9,7 @@ Lineatrix is a technology holding company focused on the convergence of **multi-
 ### 🎯 The Mission
 Our objective is to move Forward. We are developing decentralized, task-specific AI agents capable of high-fidelity research, code generation, and satellite data synthesis.
 
-### 💎 Core Architecture: Orbivane
+### 💎 Core Focus: Orbivane
 **Orbivane** is our primary development focus—a specialized monitoring framework designed to interpret the planet from above.
 * **Multi-Agent Orchestration:** Specialized LLM agents assigned to distinct tactical roles.
 * **orbivane:** from minutes to milliseconds.
