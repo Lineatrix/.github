@@ -2,7 +2,7 @@
 
 > **"Architecting the intelligence"**
 
-Lineatrix is a technology holding company focused on the convergence of **multi-agent systems**. We build the software ecosystems that will define how we monitor, manage, and interact with the infrastructure.
+Lineatrix is a technology company focused on the convergence of **multi-agent systems**. We build the software ecosystems that will define how we monitor, manage, and interact with the infrastructure.
 
 ---
 
