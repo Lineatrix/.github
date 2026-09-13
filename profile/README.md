@@ -11,7 +11,7 @@ Our objective is to move Forward. We are developing decentralized, task-specific
 
 ### 💎 Core Focus: Orbivane
 **Orbivane** is our primary development focus—a specialized monitoring framework designed to interpret the planet from above.
-* **Multi-Agent Orchestration:** Specialized LLM agents assigned to distinct tactical roles.
+* **Multi-Agent Orchestration:** Specialized SLM agents assigned to distinct tactical roles.
 * **orbivane:** from minutes to milliseconds.
 
 ---
@@ -37,7 +37,7 @@ Our objective is to move Forward. We are developing decentralized, task-specific
 ---
 
 - **Website:** [Lineatrix](https://lineatrix.com)
-- **CEO & CTO:** [Aditya D.K. Gupta](https://github.com/AdityaDKGupta)
+- **Founder, CEO & CTO:** [Aditya D.K. Gupta](https://github.com/AdityaDKGupta)
 ---
 <p align="center">
     <i>“Follow to be the part”</i>
