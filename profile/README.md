@@ -19,7 +19,7 @@ Our objective is to move Forward. We are developing decentralized, task-specific
 ### 🛠️ Technical Pillars
 | Domain | Focus |
 | :--- | :--- |
-| **Artificial Intelligence** | Multi-agent systems, Task-specific LLM orchestration. |
+| **Artificial Intelligence** | Multi-agent systems, Task-specific SLM orchestration. |
 | **Objective** | minimizing resources and maximizing impact. |
 | **systems** | autonomous multi-agent. |
 
